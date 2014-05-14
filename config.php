@@ -28,7 +28,7 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$THEME->name = 'clean';
+$THEME->name = 'themebase26';
 
 /////////////////////////////////
 // The only thing you need to change in this file when copying it to
@@ -37,7 +37,7 @@ $THEME->name = 'clean';
 //////////////////////////////////
 //
 $THEME->doctype = 'html5';
-$THEME->parents = array('bootstrapbase');
+$THEME->parents = array('clean', 'bootstrapbase');
 $THEME->sheets = array('custom');
 $THEME->supportscssoptimisation = false;
 $THEME->yuicssmodules = array();
