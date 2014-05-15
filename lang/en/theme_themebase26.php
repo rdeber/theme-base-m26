@@ -30,9 +30,9 @@ $string['choosereadme'] = '
     </div>
 </div>';
 
-$string['configtitle'] = 'abtech25';
+$string['configtitle'] = 'themebase26';
 
-$string['pluginname'] = 'abtech25';
+$string['pluginname'] = 'themebase26';
 
 $string['region-side-post'] = 'Right';
 
